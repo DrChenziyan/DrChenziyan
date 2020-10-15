@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🏷️ Who am I?
-- 🙋‍♂️ My name is **Chen Ziyan**
-- 🏫 I'm studying at Xiangya Hospital, Central South University
+  - 🙋‍♂️ My name is **Chen Ziyan**
+  - 🏫 I'm studying at Xiangya Hospital, Central South University
 
 - 🔭 I’m currently working on... 
   - Machine Learning and Deep Learning
