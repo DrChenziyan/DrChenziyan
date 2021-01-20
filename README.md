@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🏷️ Who am I?
-  - 🙋‍♂️ My name is **Chen Ziyan**
+  - 🙋‍♂️ My name is **Ziyan Chen**
   - 🏫 I'm studying at Xiangya Hospital, Central South University
 
 - 🔭 I’m currently working on... 
