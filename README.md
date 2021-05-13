@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Ziyan Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrChenziyan&count_private=true&show_icons=true&theme=radical)
+![ZiyanChen's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrChenziyan&count_private=true&show_icons=true&theme=radical)
 - 🏷️ Who am I?
   - 🙋‍♂️ My name is **Ziyan Chen**
   - 🏫 I'm studying at Xiangya Hospital, Central South University
