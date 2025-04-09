@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on... 
   - Machine Learning and Deep Learning
   - Medical Imaging
+  - fMRI and DWI
 
 - 🌱 I’m currently learning...
   - 👨‍⚕️ Medical Imaging processing and Artificial Intelligence
